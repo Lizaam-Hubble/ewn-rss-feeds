@@ -17,7 +17,9 @@ An essential API called CabApi must always be present in template, as this api i
 The creation of this template is specifically focused towards building web software with modern tech coupled with less modern programming techniques for backwards compatibility.<br>
 If errors occur during development, remember to continue debugging where the error appears, and figure out the solution by yourself before resorting to google, this will help you in the long run.
 
-# Channel
-Standard javascript front end development practise
-Object Orientated Programming
+### channel
+Standard javascript front end development practise <br>
+Object Orientated Programming <br>
 External use of apis and libraries were used to develop this brand
+
+### preview
