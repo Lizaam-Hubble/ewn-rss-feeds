@@ -1,9 +1,9 @@
-This template is created by Lizaam Esau - JavaScript Developer (lizaam.esau@gmail.com)
+This template is created by Lizaam Esau - JavaScript Developer (lizaam@hubbleafrica.com)
 
 ### template basis
 
 This template is the basic foundation when starting to develop hubble brand channels.<br />
-All programming is strictly kept to ES5 React standards, for bakwards browser compatibility (more specifically, hubble africa in house marketing hardware).<br />
+All programming is strictly kept to ES5 React standards, for backwards browser compatibility (more specifically, hubble africa in house marketing hardware).<br />
 Code must always be kept clean and effecient for the in house hardware that hubble offers.
 
 ### libraries
@@ -16,3 +16,8 @@ An essential API called CabApi must always be present in template, as this api i
 
 The creation of this template is specifically focused towards building web software with modern tech coupled with less modern programming techniques for backwards compatibility.<br>
 If errors occur during development, remember to continue debugging where the error appears, and figure out the solution by yourself before resorting to google, this will help you in the long run.
+
+# Channel
+Standard javascript front end development practise
+Object Orientated Programming
+External use of apis and libraries were used to develop this brand
