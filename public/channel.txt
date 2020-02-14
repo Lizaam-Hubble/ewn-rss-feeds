@@ -1,0 +1,20 @@
+An example of a button to be used in the channel 
+ES5 Template Literals
+
+1. Component Display
+'<button type="button" class="btn-colourful-gallery"' +
+    'onclick="store.methods.swiperContentUpdate(this.dataset.type, this.dataset.direction, this.dataset.component, this.dataset.close, this)"' +
+    'data-type="component" data-direction="previous" data-component="home" data-close="gallery"' + 
+'>Close Gallery</div>' +
+
+2. Popup Display
+'<img src="img/1-home/right-content.png" id="home-video-img"' +
+  'onclick="store.methods.swiperContentUpdate(this.dataset.type, this.dataset.direction, this.dataset.component, this.dataset.close, this)"' +
+  'data-type="popup" data-direction="popup" data-component="mtn-video"' + 
+' />' +
+
+Datasets Explained
+  1. data-type - component || popup
+  2. data-direction - previous || next
+  3. data-component - component name to be rendered
+  4. data-close - only used for galleries
